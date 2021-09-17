@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "167604629288",
+    "project_id": "poochy-8a8df",
+    "storage_bucket": "poochy-8a8df.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167604629288:android:8de0488f90e28869a9ea1d",
+        "android_client_info": {
+          "package_name": "com.dothething.poochy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167604629288-24svsofgskekd541d0rg9k8qnr3vtm5b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKLxjA6rP9DWczwr6v-lXBoP5mII-F2CI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "167604629288-24svsofgskekd541d0rg9k8qnr3vtm5b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
